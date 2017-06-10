@@ -10,15 +10,15 @@ cModel Technology
 Z0 d/nfs/stak/students/s/smithabr/ECE_474/hw7
 vclock
 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
-!s110 1496981405
+!s110 1497060216
 !i10b 1
-!s100 XDLE0K2?L>VJ>LJaX[QMe3
-I[6@S5ASn;2Q;>F2Uj^0GM2
+!s100 kE?9FXmOlEUhZ36QK04jC3
+IG8Gz0Hab391KMeIZ[b40S2
 VDg1SIo80bB@j0V0VzS_@n1
 !s105 clock_sv_unit
 S1
 R0
-w1496981366
+w1497060215
 8clock.sv
 Fclock.sv
 L0 1
@@ -26,7 +26,7 @@ OL;L;10.5;63
 r1
 !s85 0
 31
-!s108 1496981405.000000
+!s108 1497060216.000000
 !s107 clock.sv|
 !s90 clock.sv|
 !i113 0
